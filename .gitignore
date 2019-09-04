@@ -1,0 +1,22 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+src/main/resources/dist
+src/main/resources/bin/reports
+src/main/resources/bin/tests_output
+
+.java-version
