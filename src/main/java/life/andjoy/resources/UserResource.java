@@ -1,6 +1,6 @@
 package life.andjoy.resources;
 
-import life.andjoy.UserService;
+import life.andjoy.services.UserService;
 import life.andjoy.model.User;
 
 import javax.ws.rs.*;

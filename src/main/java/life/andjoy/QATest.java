@@ -5,6 +5,7 @@ import io.dropwizard.Configuration;
 import io.dropwizard.setup.Bootstrap;
 import io.dropwizard.setup.Environment;
 import life.andjoy.resources.UserResource;
+import life.andjoy.services.UserService;
 
 public class QATest extends Application<Configuration> {
 
